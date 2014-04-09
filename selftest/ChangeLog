@@ -1,5 +1,6 @@
-2014-04-08 version 1.3.4 Florian Mast <flo.mast@web.de>
+2014-04-08 version 1.3.5 Florian Mast <flo.mast@web.de>
 	added CSS in Typoscript setup.txt (do not show hidden records)
+	updated manual.sxw
 
 2014-04-03 version 1.3.4 Florian Mast <flo.mast@web.de>
 	added label scoring, changed locallang.xlf, de.locallang.xlf an Show.html in Templates/Selftest
